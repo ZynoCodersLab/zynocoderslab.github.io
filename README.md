@@ -1,3 +1,3 @@
-# ZynoCodex
+# ZynoCoders Lab
 
-## Static Website Repository
+## ZynoCoders Lab Landing Page
